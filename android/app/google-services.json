@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393176425205",
+    "project_id": "dbse1-43571",
+    "storage_bucket": "dbse1-43571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393176425205:android:ec3daea0f7c0ba344cdbbc",
+        "android_client_info": {
+          "package_name": "com.example.dbse1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdotCMW8079pi-hZWxyaCbUJ2LKoanW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
